@@ -1,4 +1,3 @@
-# devops-math-operations
 
 # 🧮 DevOps Math Operations
 
