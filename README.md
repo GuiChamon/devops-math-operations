@@ -13,6 +13,10 @@ Projeto simples em **JavaScript** para aplicar conceitos de **Integração Cont�
 ## 🧪 Testes
 Os testes unitários são feitos com **Jest**.
 
+## Alunos
+Guilherme Soriani de Amorim Chamon
+Cauã Lima 
+
 ```bash
 npm install
 npm test
